@@ -5,7 +5,7 @@ about:
   head: 7979ffd
   archived: false
   latestVersion: "v1.0.1"
-  collectedAt: 2026-09-07T06:04:36Z
+  collectedAt: 2026-09-07T18:22:27Z
 timeline:
   created: 2021-05-17
   lastCommit: 2026-08-12
@@ -79,7 +79,7 @@ total:
   commit: 167
 ---
 path: /home/runner/.x-repo/github.com/charmbracelet/skate
-collectedAt: 2026-09-07T06:04:38Z
+collectedAt: 2026-09-07T18:22:28Z
 loc:
   Go:
     code: 392
@@ -100,7 +100,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:04:46+00:00
+  collectedAt: 2026-09-07T18:22:28+00:00
   platform:
     darwin/arm64:
       name:  skate_1.0.1_Darwin_arm64.tar.gz
