@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.0.1"
   latestRelease: "v1.0.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T06:08:04Z
+  collectedAt: 2026-09-09T20:47:33Z
 timeline:
   created: 2021-05-17
   lastCommit: 2026-08-12
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2025-03-06
   lastPrerelease: 
 popularity:
-  star: 1830
+  star: 1829
   watcher: 4
   fork: 51
   release: 11
@@ -83,7 +83,7 @@ total:
   commit: 167
 ---
 path: /home/runner/.x-repo/github.com/charmbracelet/skate
-collectedAt: 2026-09-09T06:08:05Z
+collectedAt: 2026-09-09T20:47:37Z
 loc:
   Go:
     code: 392
