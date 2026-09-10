@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 4690809,
       "digest": null,
-      "download_count": 30,
+      "download_count": 31,
       "created_at": "2025-03-06T14:13:20Z",
       "updated_at": "2025-03-06T14:13:20Z",
       "browser_download_url": "https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate-1.0.1-1.armv7hl.rpm"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 56111,
       "digest": null,
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2025-03-06T14:13:21Z",
       "updated_at": "2025-03-06T14:13:21Z",
       "browser_download_url": "https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate-1.0.1.tar.gz.sbom.json"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 4586732,
       "digest": null,
-      "download_count": 1340,
+      "download_count": 1343,
       "created_at": "2025-03-06T14:13:15Z",
       "updated_at": "2025-03-06T14:13:16Z",
       "browser_download_url": "https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Darwin_arm64.tar.gz"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 4768710,
       "digest": null,
-      "download_count": 3290,
+      "download_count": 3293,
       "created_at": "2025-03-06T14:13:16Z",
       "updated_at": "2025-03-06T14:13:16Z",
       "browser_download_url": "https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Linux_x86_64.tar.gz"
@@ -1903,7 +1903,7 @@
       "state": "uploaded",
       "size": 4775778,
       "digest": null,
-      "download_count": 1003,
+      "download_count": 1005,
       "created_at": "2025-03-06T14:13:17Z",
       "updated_at": "2025-03-06T14:13:17Z",
       "browser_download_url": "https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Windows_i386.zip"
@@ -1975,7 +1975,7 @@
       "state": "uploaded",
       "size": 4860890,
       "digest": null,
-      "download_count": 1664,
+      "download_count": 1667,
       "created_at": "2025-03-06T14:13:16Z",
       "updated_at": "2025-03-06T14:13:17Z",
       "browser_download_url": "https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Windows_x86_64.zip"
