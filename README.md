@@ -14,11 +14,11 @@ x install skate
 
 ## Code insight
 
-Total: **392** lines of code across **2** files in the top 5 languages.
+Total: **398** lines of code across **2** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 392 | 17 | 34 | 1 |
+| Go | 398 | 17 | 34 | 1 |
 | Markdown | 0 | 57 | 38 | 1 |
 
 ## Source
@@ -29,27 +29,27 @@ Total: **392** lines of code across **2** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.0.1` (2025-03-06)
-- **Last commit**: 2026-08-12
+- **Last commit**: 2026-09-16
 - **Assets in release**: 57
 
 ## Popularity
 
-- **Stars**: 1,836 · **Forks**: 51 · **Open issues**: 48 · **Contributors**: 20
+- **Stars**: 1,835 · **Forks**: 51 · **Open issues**: 48 · **Contributors**: 20
 
 ## Totals (cumulative)
 
-- **Releases**: 11 · **Merged PRs**: 96 · **Open PRs**: 6 · **Closed issues**: 39 · **Open issues**: 9 · **Commits**: 167
+- **Releases**: 11 · **Merged PRs**: 97 · **Open PRs**: 5 · **Closed issues**: 40 · **Open issues**: 8 · **Commits**: 168
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-07-18 | 0 | 1 | 3 | 0 | 1 | 1 |
-| 90d | 2026-06-18 | 0 | 1 | 3 | 0 | 1 | 1 |
-| last180d | 2026-03-20 | 0 | 1 | 4 | 0 | 1 | 2 |
-| 360d | 2025-09-21 | 0 | 8 | 6 | 0 | 3 | 8 |
-| last720d | 2024-09-26 | 1 | 47 | 6 | 4 | 7 | 56 |
+| 30d | 2026-08-18 | 0 | 0 | 1 | 0 | 1 | 1 |
+| last60d | 2026-07-19 | 0 | 2 | 2 | 0 | 1 | 2 |
+| 90d | 2026-06-19 | 0 | 2 | 2 | 0 | 1 | 2 |
+| last180d | 2026-03-21 | 0 | 2 | 3 | 0 | 1 | 3 |
+| 360d | 2025-09-22 | 0 | 8 | 5 | 1 | 2 | 9 |
+| last720d | 2024-09-27 | 1 | 48 | 5 | 5 | 6 | 57 |
 
 ## Release assets
 
@@ -122,4 +122,4 @@ Install metadata for skate lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T06:36:44Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T06:32:32Z._
