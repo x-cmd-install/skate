@@ -14,12 +14,12 @@ x install skate
 
 ## Code insight
 
-Total: **398** lines of code across **2** files in the top 5 languages.
+Total: **407** lines of code across **2** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 398 | 17 | 34 | 1 |
-| Markdown | 0 | 57 | 38 | 1 |
+| Go | 407 | 17 | 35 | 1 |
+| Markdown | 0 | 66 | 43 | 1 |
 
 ## Source
 
@@ -28,90 +28,89 @@ Total: **398** lines of code across **2** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.0.1` (2025-03-06)
-- **Last commit**: 2026-09-16
-- **Assets in release**: 57
+- **Latest**: `v1.1.0` (2026-09-28)
+- **Last commit**: 2026-09-28
+- **Assets in release**: 56
 
 ## Popularity
 
-- **Stars**: 1,842 · **Forks**: 52 · **Open issues**: 48 · **Contributors**: 21
+- **Stars**: 1,843 · **Forks**: 52 · **Open issues**: 48 · **Contributors**: 21
 
 ## Totals (cumulative)
 
-- **Releases**: 11 · **Merged PRs**: 97 · **Open PRs**: 6 · **Closed issues**: 40 · **Open issues**: 8 · **Commits**: 168
+- **Releases**: 12 · **Merged PRs**: 99 · **Open PRs**: 5 · **Closed issues**: 40 · **Open issues**: 8 · **Commits**: 171
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 0 | 2 | 0 | 1 | 1 |
-| last60d | 2026-07-30 | 0 | 2 | 3 | 0 | 1 | 2 |
-| 90d | 2026-06-30 | 0 | 2 | 3 | 0 | 1 | 2 |
-| last180d | 2026-04-01 | 0 | 2 | 4 | 0 | 1 | 3 |
-| 360d | 2025-10-03 | 0 | 8 | 6 | 0 | 2 | 7 |
-| last720d | 2024-10-08 | 1 | 46 | 6 | 5 | 6 | 56 |
+| 30d | 2026-08-30 | 1 | 2 | 1 | 0 | 1 | 3 |
+| last60d | 2026-07-31 | 1 | 4 | 2 | 0 | 1 | 4 |
+| 90d | 2026-07-01 | 1 | 4 | 2 | 0 | 1 | 4 |
+| last180d | 2026-04-02 | 1 | 4 | 3 | 0 | 1 | 5 |
+| 360d | 2025-10-04 | 1 | 10 | 5 | 0 | 2 | 9 |
+| last720d | 2024-10-09 | 2 | 48 | 5 | 5 | 6 | 59 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/charmbracelet/skate/releases/download/v1.0.1/checksums.txt) | 5.2 KiB | `other` |
-| [checksums.txt.pem](https://github.com/charmbracelet/skate/releases/download/v1.0.1/checksums.txt.pem) | 3.1 KiB | `other` |
-| [checksums.txt.sig](https://github.com/charmbracelet/skate/releases/download/v1.0.1/checksums.txt.sig) | 96 B | `other` |
-| [skate-1.0.1-1.aarch64.rpm](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate-1.0.1-1.aarch64.rpm) | 4.3 MiB | `runtime/rpm/aarch64` |
-| [skate-1.0.1-1.armv7hl.rpm](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate-1.0.1-1.armv7hl.rpm) | 4.5 MiB | `runtime/rpm/armv7hl` |
-| [skate-1.0.1-1.i386.rpm](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate-1.0.1-1.i386.rpm) | 4.6 MiB | `other` |
-| [skate-1.0.1-1.x86_64.rpm](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate-1.0.1-1.x86_64.rpm) | 4.7 MiB | `runtime/rpm/x86_64` |
-| [skate-1.0.1.tar.gz](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate-1.0.1.tar.gz) | 12.4 KiB | `native/unknown` |
-| [skate-1.0.1.tar.gz.sbom.json](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate-1.0.1.tar.gz.sbom.json) | 54.8 KiB | `other` |
-| [skate_1.0.1_aarch64.apk](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_aarch64.apk) | 4.3 MiB | `other` |
-| [skate_1.0.1_amd64.deb](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_amd64.deb) | 4.6 MiB | `runtime/deb/amd64` |
-| [skate_1.0.1_arm64.deb](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_arm64.deb) | 4.2 MiB | `runtime/deb/arm64` |
-| [skate_1.0.1_armhf.deb](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_armhf.deb) | 4.4 MiB | `runtime/deb/armhf` |
-| [skate_1.0.1_armv7.apk](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_armv7.apk) | 4.5 MiB | `other` |
-| [skate_1.0.1_Darwin_arm64.tar.gz](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Darwin_arm64.tar.gz) | 4.4 MiB | `native/darwin/arm64` |
-| [skate_1.0.1_Darwin_arm64.tar.gz.sbom.json](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Darwin_arm64.tar.gz.sbom.json) | 57.3 KiB | `native/darwin/arm64` |
-| [skate_1.0.1_Darwin_x86_64.tar.gz](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Darwin_x86_64.tar.gz) | 4.6 MiB | `native/darwin/x64` |
-| [skate_1.0.1_Darwin_x86_64.tar.gz.sbom.json](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Darwin_x86_64.tar.gz.sbom.json) | 57.4 KiB | `native/darwin/x64` |
-| [skate_1.0.1_Freebsd_arm.tar.gz](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Freebsd_arm.tar.gz) | 4.3 MiB | `native/linux/arm` |
-| [skate_1.0.1_Freebsd_arm.tar.gz.sbom.json](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Freebsd_arm.tar.gz.sbom.json) | 57.2 KiB | `other` |
-| [skate_1.0.1_Freebsd_arm64.tar.gz](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Freebsd_arm64.tar.gz) | 4.2 MiB | `native/linux/arm64` |
-| [skate_1.0.1_Freebsd_arm64.tar.gz.sbom.json](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Freebsd_arm64.tar.gz.sbom.json) | 57.4 KiB | `other` |
-| [skate_1.0.1_Freebsd_i386.tar.gz](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Freebsd_i386.tar.gz) | 4.4 MiB | `native/linux/x86` |
-| [skate_1.0.1_Freebsd_i386.tar.gz.sbom.json](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Freebsd_i386.tar.gz.sbom.json) | 57.3 KiB | `other` |
-| [skate_1.0.1_Freebsd_x86_64.tar.gz](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Freebsd_x86_64.tar.gz) | 4.5 MiB | `native/linux/x64` |
-| [skate_1.0.1_Freebsd_x86_64.tar.gz.sbom.json](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Freebsd_x86_64.tar.gz.sbom.json) | 57.5 KiB | `other` |
-| [skate_1.0.1_i386.deb](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_i386.deb) | 4.4 MiB | `runtime/deb/i386` |
-| [skate_1.0.1_Linux_arm.tar.gz](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Linux_arm.tar.gz) | 4.3 MiB | `native/linux/arm` |
-| [skate_1.0.1_Linux_arm.tar.gz.sbom.json](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Linux_arm.tar.gz.sbom.json) | 57.0 KiB | `native/linux/arm` |
-| [skate_1.0.1_Linux_arm64.tar.gz](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Linux_arm64.tar.gz) | 4.2 MiB | `native/linux/arm64` |
-| [skate_1.0.1_Linux_arm64.tar.gz.sbom.json](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Linux_arm64.tar.gz.sbom.json) | 57.2 KiB | `native/linux/arm64` |
-| [skate_1.0.1_Linux_i386.tar.gz](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Linux_i386.tar.gz) | 4.4 MiB | `native/linux/x86` |
-| [skate_1.0.1_Linux_i386.tar.gz.sbom.json](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Linux_i386.tar.gz.sbom.json) | 57.1 KiB | `native/linux/x86` |
-| [skate_1.0.1_Linux_x86_64.tar.gz](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Linux_x86_64.tar.gz) | 4.5 MiB | `native/linux/x64` |
-| [skate_1.0.1_Linux_x86_64.tar.gz.sbom.json](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Linux_x86_64.tar.gz.sbom.json) | 57.3 KiB | `native/linux/x64` |
-| [skate_1.0.1_Netbsd_arm.tar.gz](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Netbsd_arm.tar.gz) | 4.3 MiB | `native/linux/arm` |
-| [skate_1.0.1_Netbsd_arm.tar.gz.sbom.json](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Netbsd_arm.tar.gz.sbom.json) | 57.1 KiB | `other` |
-| [skate_1.0.1_Netbsd_arm64.tar.gz](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Netbsd_arm64.tar.gz) | 4.2 MiB | `native/linux/arm64` |
-| [skate_1.0.1_Netbsd_arm64.tar.gz.sbom.json](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Netbsd_arm64.tar.gz.sbom.json) | 57.3 KiB | `other` |
-| [skate_1.0.1_Netbsd_i386.tar.gz](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Netbsd_i386.tar.gz) | 4.4 MiB | `native/linux/x86` |
-| [skate_1.0.1_Netbsd_i386.tar.gz.sbom.json](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Netbsd_i386.tar.gz.sbom.json) | 57.2 KiB | `other` |
-| [skate_1.0.1_Netbsd_x86_64.tar.gz](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Netbsd_x86_64.tar.gz) | 4.5 MiB | `native/linux/x64` |
-| [skate_1.0.1_Netbsd_x86_64.tar.gz.sbom.json](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Netbsd_x86_64.tar.gz.sbom.json) | 57.4 KiB | `other` |
-| [skate_1.0.1_Openbsd_arm.tar.gz](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Openbsd_arm.tar.gz) | 4.3 MiB | `native/linux/arm` |
-| [skate_1.0.1_Openbsd_arm.tar.gz.sbom.json](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Openbsd_arm.tar.gz.sbom.json) | 57.2 KiB | `other` |
-| [skate_1.0.1_Openbsd_arm64.tar.gz](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Openbsd_arm64.tar.gz) | 4.2 MiB | `native/linux/arm64` |
-| [skate_1.0.1_Openbsd_arm64.tar.gz.sbom.json](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Openbsd_arm64.tar.gz.sbom.json) | 57.4 KiB | `other` |
-| [skate_1.0.1_Openbsd_i386.tar.gz](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Openbsd_i386.tar.gz) | 4.4 MiB | `native/linux/x86` |
-| [skate_1.0.1_Openbsd_i386.tar.gz.sbom.json](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Openbsd_i386.tar.gz.sbom.json) | 57.3 KiB | `other` |
-| [skate_1.0.1_Openbsd_x86_64.tar.gz](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Openbsd_x86_64.tar.gz) | 4.5 MiB | `native/linux/x64` |
-| [skate_1.0.1_Openbsd_x86_64.tar.gz.sbom.json](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Openbsd_x86_64.tar.gz.sbom.json) | 57.5 KiB | `other` |
-| [skate_1.0.1_Windows_i386.zip](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Windows_i386.zip) | 4.6 MiB | `native/win/x64` |
-| [skate_1.0.1_Windows_i386.zip.sbom.json](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Windows_i386.zip.sbom.json) | 59.0 KiB | `native/win/x64` |
-| [skate_1.0.1_Windows_x86_64.zip](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Windows_x86_64.zip) | 4.6 MiB | `native/win/x64` |
-| [skate_1.0.1_Windows_x86_64.zip.sbom.json](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_Windows_x86_64.zip.sbom.json) | 59.3 KiB | `native/win/x64` |
-| [skate_1.0.1_x86.apk](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_x86.apk) | 4.6 MiB | `other` |
-| [skate_1.0.1_x86_64.apk](https://github.com/charmbracelet/skate/releases/download/v1.0.1/skate_1.0.1_x86_64.apk) | 4.7 MiB | `other` |
+| [checksums.txt](https://github.com/charmbracelet/skate/releases/download/v1.1.0/checksums.txt) | 5.2 KiB | `other` |
+| [checksums.txt.sigstore.json](https://github.com/charmbracelet/skate/releases/download/v1.1.0/checksums.txt.sigstore.json) | 10.0 KiB | `other` |
+| [skate-1.1.0-1.aarch64.rpm](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate-1.1.0-1.aarch64.rpm) | 4.7 MiB | `runtime/rpm/aarch64` |
+| [skate-1.1.0-1.armv7hl.rpm](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate-1.1.0-1.armv7hl.rpm) | 5.0 MiB | `runtime/rpm/armv7hl` |
+| [skate-1.1.0-1.i386.rpm](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate-1.1.0-1.i386.rpm) | 5.1 MiB | `other` |
+| [skate-1.1.0-1.x86_64.rpm](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate-1.1.0-1.x86_64.rpm) | 5.2 MiB | `runtime/rpm/x86_64` |
+| [skate-1.1.0.tar.gz](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate-1.1.0.tar.gz) | 14.2 KiB | `native/unknown` |
+| [skate-1.1.0.tar.gz.sbom.json](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate-1.1.0.tar.gz.sbom.json) | 111.8 KiB | `other` |
+| [skate_1.1.0_aarch64.apk](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_aarch64.apk) | 4.9 MiB | `other` |
+| [skate_1.1.0_amd64.deb](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_amd64.deb) | 5.2 MiB | `runtime/deb/amd64` |
+| [skate_1.1.0_arm64.deb](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_arm64.deb) | 4.7 MiB | `runtime/deb/arm64` |
+| [skate_1.1.0_armhf.deb](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_armhf.deb) | 5.0 MiB | `runtime/deb/armhf` |
+| [skate_1.1.0_armv7.apk](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_armv7.apk) | 5.2 MiB | `other` |
+| [skate_1.1.0_Darwin_arm64.tar.gz](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Darwin_arm64.tar.gz) | 4.9 MiB | `native/darwin/arm64` |
+| [skate_1.1.0_Darwin_arm64.tar.gz.sbom.json](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Darwin_arm64.tar.gz.sbom.json) | 77.5 KiB | `native/darwin/arm64` |
+| [skate_1.1.0_Darwin_x86_64.tar.gz](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Darwin_x86_64.tar.gz) | 5.3 MiB | `native/darwin/x64` |
+| [skate_1.1.0_Darwin_x86_64.tar.gz.sbom.json](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Darwin_x86_64.tar.gz.sbom.json) | 77.7 KiB | `native/darwin/x64` |
+| [skate_1.1.0_Freebsd_arm.tar.gz](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Freebsd_arm.tar.gz) | 5.0 MiB | `native/linux/arm` |
+| [skate_1.1.0_Freebsd_arm.tar.gz.sbom.json](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Freebsd_arm.tar.gz.sbom.json) | 77.4 KiB | `other` |
+| [skate_1.1.0_Freebsd_arm64.tar.gz](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Freebsd_arm64.tar.gz) | 4.7 MiB | `native/linux/arm64` |
+| [skate_1.1.0_Freebsd_arm64.tar.gz.sbom.json](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Freebsd_arm64.tar.gz.sbom.json) | 77.7 KiB | `other` |
+| [skate_1.1.0_Freebsd_i386.tar.gz](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Freebsd_i386.tar.gz) | 5.0 MiB | `native/linux/x86` |
+| [skate_1.1.0_Freebsd_i386.tar.gz.sbom.json](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Freebsd_i386.tar.gz.sbom.json) | 77.5 KiB | `other` |
+| [skate_1.1.0_Freebsd_x86_64.tar.gz](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Freebsd_x86_64.tar.gz) | 5.1 MiB | `native/linux/x64` |
+| [skate_1.1.0_Freebsd_x86_64.tar.gz.sbom.json](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Freebsd_x86_64.tar.gz.sbom.json) | 77.8 KiB | `other` |
+| [skate_1.1.0_i386.deb](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_i386.deb) | 5.1 MiB | `runtime/deb/i386` |
+| [skate_1.1.0_Linux_arm.tar.gz](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Linux_arm.tar.gz) | 5.0 MiB | `native/linux/arm` |
+| [skate_1.1.0_Linux_arm.tar.gz.sbom.json](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Linux_arm.tar.gz.sbom.json) | 77.1 KiB | `native/linux/arm` |
+| [skate_1.1.0_Linux_arm64.tar.gz](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Linux_arm64.tar.gz) | 4.7 MiB | `native/linux/arm64` |
+| [skate_1.1.0_Linux_arm64.tar.gz.sbom.json](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Linux_arm64.tar.gz.sbom.json) | 77.4 KiB | `native/linux/arm64` |
+| [skate_1.1.0_Linux_i386.tar.gz](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Linux_i386.tar.gz) | 5.1 MiB | `native/linux/x86` |
+| [skate_1.1.0_Linux_i386.tar.gz.sbom.json](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Linux_i386.tar.gz.sbom.json) | 77.2 KiB | `native/linux/x86` |
+| [skate_1.1.0_Linux_x86_64.tar.gz](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Linux_x86_64.tar.gz) | 5.2 MiB | `native/linux/x64` |
+| [skate_1.1.0_Linux_x86_64.tar.gz.sbom.json](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Linux_x86_64.tar.gz.sbom.json) | 77.5 KiB | `native/linux/x64` |
+| [skate_1.1.0_Netbsd_arm.tar.gz](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Netbsd_arm.tar.gz) | 4.9 MiB | `native/linux/arm` |
+| [skate_1.1.0_Netbsd_arm.tar.gz.sbom.json](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Netbsd_arm.tar.gz.sbom.json) | 77.2 KiB | `other` |
+| [skate_1.1.0_Netbsd_arm64.tar.gz](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Netbsd_arm64.tar.gz) | 4.7 MiB | `native/linux/arm64` |
+| [skate_1.1.0_Netbsd_arm64.tar.gz.sbom.json](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Netbsd_arm64.tar.gz.sbom.json) | 77.5 KiB | `other` |
+| [skate_1.1.0_Netbsd_i386.tar.gz](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Netbsd_i386.tar.gz) | 5.0 MiB | `native/linux/x86` |
+| [skate_1.1.0_Netbsd_i386.tar.gz.sbom.json](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Netbsd_i386.tar.gz.sbom.json) | 77.4 KiB | `other` |
+| [skate_1.1.0_Netbsd_x86_64.tar.gz](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Netbsd_x86_64.tar.gz) | 5.1 MiB | `native/linux/x64` |
+| [skate_1.1.0_Netbsd_x86_64.tar.gz.sbom.json](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Netbsd_x86_64.tar.gz.sbom.json) | 77.7 KiB | `other` |
+| [skate_1.1.0_Openbsd_arm.tar.gz](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Openbsd_arm.tar.gz) | 5.0 MiB | `native/linux/arm` |
+| [skate_1.1.0_Openbsd_arm.tar.gz.sbom.json](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Openbsd_arm.tar.gz.sbom.json) | 77.4 KiB | `other` |
+| [skate_1.1.0_Openbsd_arm64.tar.gz](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Openbsd_arm64.tar.gz) | 4.7 MiB | `native/linux/arm64` |
+| [skate_1.1.0_Openbsd_arm64.tar.gz.sbom.json](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Openbsd_arm64.tar.gz.sbom.json) | 77.7 KiB | `other` |
+| [skate_1.1.0_Openbsd_i386.tar.gz](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Openbsd_i386.tar.gz) | 5.0 MiB | `native/linux/x86` |
+| [skate_1.1.0_Openbsd_i386.tar.gz.sbom.json](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Openbsd_i386.tar.gz.sbom.json) | 77.5 KiB | `other` |
+| [skate_1.1.0_Openbsd_x86_64.tar.gz](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Openbsd_x86_64.tar.gz) | 5.1 MiB | `native/linux/x64` |
+| [skate_1.1.0_Openbsd_x86_64.tar.gz.sbom.json](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Openbsd_x86_64.tar.gz.sbom.json) | 77.8 KiB | `other` |
+| [skate_1.1.0_Windows_i386.zip](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Windows_i386.zip) | 5.3 MiB | `native/win/x64` |
+| [skate_1.1.0_Windows_i386.zip.sbom.json](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Windows_i386.zip.sbom.json) | 78.7 KiB | `native/win/x64` |
+| [skate_1.1.0_Windows_x86_64.zip](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Windows_x86_64.zip) | 5.3 MiB | `native/win/x64` |
+| [skate_1.1.0_Windows_x86_64.zip.sbom.json](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Windows_x86_64.zip.sbom.json) | 79.0 KiB | `native/win/x64` |
+| [skate_1.1.0_x86.apk](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_x86.apk) | 5.2 MiB | `other` |
+| [skate_1.1.0_x86_64.apk](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_x86_64.apk) | 5.4 MiB | `other` |
 
 ## Improve this data
 
@@ -122,4 +121,4 @@ Install metadata for skate lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T06:34:30Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:54:50Z._
