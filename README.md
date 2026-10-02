@@ -44,12 +44,12 @@ Total: **407** lines of code across **2** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 1 | 2 | 1 | 0 | 1 | 3 |
-| last60d | 2026-08-02 | 1 | 4 | 2 | 0 | 1 | 4 |
-| 90d | 2026-07-03 | 1 | 4 | 2 | 0 | 1 | 4 |
-| last180d | 2026-04-04 | 1 | 4 | 3 | 0 | 1 | 5 |
-| 360d | 2025-10-06 | 1 | 8 | 5 | 0 | 2 | 9 |
-| last720d | 2024-10-11 | 2 | 48 | 5 | 5 | 6 | 59 |
+| 30d | 2026-09-02 | 1 | 2 | 1 | 0 | 1 | 3 |
+| last60d | 2026-08-03 | 1 | 4 | 2 | 0 | 1 | 4 |
+| 90d | 2026-07-04 | 1 | 4 | 2 | 0 | 1 | 4 |
+| last180d | 2026-04-05 | 1 | 4 | 3 | 0 | 1 | 5 |
+| 360d | 2025-10-07 | 1 | 8 | 5 | 0 | 2 | 9 |
+| last720d | 2024-10-12 | 2 | 48 | 5 | 5 | 6 | 59 |
 
 ## Release assets
 
@@ -121,4 +121,4 @@ Install metadata for skate lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T07:14:32Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T06:43:02Z._
