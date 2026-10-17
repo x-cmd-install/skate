@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 5426262,
       "digest": "sha256:cc49b61c93004a53b613c170d30c9699f65d02ad4ff943716121c01a52380810",
-      "download_count": 27,
+      "download_count": 28,
       "created_at": "2026-09-28T08:32:47Z",
       "updated_at": "2026-09-28T08:32:47Z",
       "browser_download_url": "https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_amd64.deb"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 5125191,
       "digest": "sha256:4d5502c93c2dcd281477d80f734d08ec5fee1074e413b68cb58fc3e233d690e8",
-      "download_count": 167,
+      "download_count": 171,
       "created_at": "2026-09-28T08:32:46Z",
       "updated_at": "2026-09-28T08:32:47Z",
       "browser_download_url": "https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Darwin_arm64.tar.gz"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 5229015,
       "digest": "sha256:411f1450c382d394d4c6ea1c7282d2c2fbd8d7c48a4d9c05b04e60418ad03088",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-09-28T08:32:45Z",
       "updated_at": "2026-09-28T08:32:46Z",
       "browser_download_url": "https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Linux_arm.tar.gz"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 5428405,
       "digest": "sha256:7bfb03f62dcb1c76a7dec55403b897a5b176da78bb9dfc783e678f03d0aae8ca",
-      "download_count": 248,
+      "download_count": 253,
       "created_at": "2026-09-28T08:32:45Z",
       "updated_at": "2026-09-28T08:32:46Z",
       "browser_download_url": "https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Linux_x86_64.tar.gz"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 4890265,
       "digest": "sha256:5377047839d2023a79e496b2110581efffc50a03af296fcdf86db91b30c253c4",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-09-28T08:32:46Z",
       "updated_at": "2026-09-28T08:32:47Z",
       "browser_download_url": "https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Netbsd_arm64.tar.gz"
@@ -1435,7 +1435,7 @@
       "state": "uploaded",
       "size": 5274904,
       "digest": "sha256:975a98f5272001c95570c86722a3dd8c3ee5e7b94d0f25e473d45478a5e8e7e1",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-09-28T08:32:45Z",
       "updated_at": "2026-09-28T08:32:46Z",
       "browser_download_url": "https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Netbsd_i386.tar.gz"
@@ -1867,7 +1867,7 @@
       "state": "uploaded",
       "size": 5538617,
       "digest": "sha256:d9ab9db08c73dab85a6f70031ea24160151eb05875883fb709cea540bb49bb7c",
-      "download_count": 69,
+      "download_count": 77,
       "created_at": "2026-09-28T08:32:45Z",
       "updated_at": "2026-09-28T08:32:46Z",
       "browser_download_url": "https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Windows_i386.zip"
@@ -1939,7 +1939,7 @@
       "state": "uploaded",
       "size": 5584411,
       "digest": "sha256:c7378f0192c0cb0aaa07cd1057453e644d0be2101139d66ae20d28b48b6b8b52",
-      "download_count": 141,
+      "download_count": 151,
       "created_at": "2026-09-28T08:32:45Z",
       "updated_at": "2026-09-28T08:32:46Z",
       "browser_download_url": "https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_Windows_x86_64.zip"
