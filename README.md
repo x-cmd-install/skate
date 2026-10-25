@@ -34,7 +34,7 @@ Total: **407** lines of code across **2** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,852 · **Forks**: 53 · **Open issues**: 48 · **Contributors**: 21
+- **Stars**: 1,854 · **Forks**: 54 · **Open issues**: 48 · **Contributors**: 21
 
 ## Totals (cumulative)
 
@@ -44,12 +44,12 @@ Total: **407** lines of code across **2** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 1 | 1 | 1 | 0 | 0 | 2 |
-| last60d | 2026-08-25 | 1 | 2 | 2 | 0 | 1 | 3 |
-| 90d | 2026-07-26 | 1 | 4 | 3 | 0 | 1 | 4 |
-| last180d | 2026-04-27 | 1 | 4 | 4 | 0 | 1 | 4 |
-| 360d | 2025-10-29 | 1 | 7 | 6 | 0 | 2 | 8 |
-| last720d | 2024-11-03 | 2 | 46 | 6 | 5 | 6 | 56 |
+| 30d | 2026-09-25 | 1 | 1 | 1 | 0 | 0 | 0 |
+| last60d | 2026-08-26 | 1 | 2 | 2 | 0 | 1 | 3 |
+| 90d | 2026-07-27 | 1 | 4 | 3 | 0 | 1 | 4 |
+| last180d | 2026-04-28 | 1 | 4 | 4 | 0 | 1 | 4 |
+| 360d | 2025-10-30 | 1 | 7 | 6 | 0 | 2 | 8 |
+| last720d | 2024-11-04 | 2 | 46 | 6 | 5 | 6 | 56 |
 
 ## Release assets
 
@@ -133,4 +133,4 @@ Install metadata for skate lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:40:34Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:42:27Z._
