@@ -44,12 +44,12 @@ Total: **407** lines of code across **2** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-08-30 | 1 | 2 | 2 | 0 | 1 | 3 |
-| 90d | 2026-07-31 | 1 | 4 | 3 | 0 | 1 | 4 |
-| last180d | 2026-05-02 | 1 | 4 | 4 | 0 | 1 | 4 |
-| 360d | 2025-11-03 | 1 | 7 | 6 | 0 | 2 | 8 |
-| last720d | 2024-11-08 | 2 | 45 | 6 | 5 | 6 | 56 |
+| 30d | 2026-09-30 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-08-31 | 1 | 2 | 2 | 0 | 1 | 3 |
+| 90d | 2026-08-01 | 1 | 4 | 3 | 0 | 1 | 4 |
+| last180d | 2026-05-03 | 1 | 4 | 4 | 0 | 1 | 4 |
+| 360d | 2025-11-04 | 1 | 7 | 6 | 0 | 2 | 8 |
+| last720d | 2024-11-09 | 2 | 45 | 6 | 5 | 6 | 55 |
 
 ## Release assets
 
@@ -119,7 +119,7 @@ Reported by **42** distros on [repology.org](https://repology.org/project/skate)
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `1.1.0` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `1.1.0` | ✅ latest |
 | Nix unstable | `1.1.0` | ✅ latest |
 | Void | `1.1.0` | ✅ latest |
 | Alpine edge | `1.0.1` | ⚠️ outdated |
@@ -133,4 +133,4 @@ Install metadata for skate lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T07:00:52Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:55:58Z._
