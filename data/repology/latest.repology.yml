@@ -1,25 +1,15 @@
-- repo: termux
-  srcname: skate
+- repo: aosc
+  srcname: app-utils/skate
   binname: skate
   visiblename: skate
-  version: 1.1.0
-  origversion: null
-  status: newest
-  summary: A personal key-value store
+  version: 1.0.1
+  origversion: 1.0.1-7
+  status: outdated
+  summary: Personal key-value storage
   maintainers:
-    - termux@github
-- repo: aur
-  srcname: skate-git
-  binname: skate-git
-  visiblename: skate-git
-  version: 0.2.0.r9.g693df1f
-  origversion: 0.2.0.r9.g693df1f-1
-  status: rolling
-  summary: A personal key value store
-  maintainers:
-    - chocobo1@aur
-  licenses:
-    - MIT
+    - fallback-mnt-aosc@repology
+  categories:
+    - utils
 - repo: alpine_3_21
   subrepo: community
   srcname: skate
@@ -198,19 +188,6 @@
   origversion: 1.0.1-r12
   status: outdated
   summary: Fish completions for skate
-  maintainers:
-    - omni+alpine@hack.org
-  licenses:
-    - MIT
-- repo: alpine_3_23
-  subrepo: community
-  srcname: skate
-  binname: skate-zsh-completion
-  visiblename: skate-zsh-completion
-  version: 1.0.1
-  origversion: 1.0.1-r12
-  status: outdated
-  summary: Zsh completions for skate
   maintainers:
     - omni+alpine@hack.org
   licenses:
@@ -226,6 +203,19 @@
   summary: A personal key value store
   licenses:
     - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: skate
+  binname: skate-zsh-completion
+  visiblename: skate-zsh-completion
+  version: 1.0.1
+  origversion: 1.0.1-r12
+  status: outdated
+  summary: Zsh completions for skate
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
 - repo: alpine_3_24
   subrepo: community
   srcname: skate
@@ -356,18 +346,18 @@
     - omni+alpine@hack.org
   licenses:
     - MIT
-- repo: aosc
-  srcname: app-utils/skate
-  binname: skate
-  visiblename: skate
-  version: 1.0.1
-  origversion: 1.0.1-7
-  status: outdated
-  summary: Personal key-value storage
+- repo: aur
+  srcname: skate-git
+  binname: skate-git
+  visiblename: skate-git
+  version: 0.2.0.r9.g693df1f
+  origversion: 0.2.0.r9.g693df1f-1
+  status: rolling
+  summary: A personal key value store
   maintainers:
-    - fallback-mnt-aosc@repology
-  categories:
-    - utils
+    - chocobo1@aur
+  licenses:
+    - MIT
 - repo: homebrew
   srcname: skate
   visiblename: skate
@@ -387,8 +377,8 @@
   srcname: skate
   binname: skate
   visiblename: skate
-  version: 1.0.1
-  origversion: 1.0.1-1
+  version: 0.2.2
+  origversion: 0.2.2-1
   status: outdated
   summary: A personal key value store
   licenses:
@@ -398,9 +388,9 @@
   srcname: skate
   binname: skate
   visiblename: skate
-  version: 1.1.0
-  origversion: 1.1.0-1
-  status: newest
+  version: 0.2.2
+  origversion: 0.2.2-1
+  status: outdated
   summary: A personal key value store
   licenses:
     - MIT
@@ -495,6 +485,16 @@
   summary: A personal key value store
   licenses:
     - MIT
+- repo: termux
+  srcname: skate
+  binname: skate
+  visiblename: skate
+  version: 1.1.0
+  origversion: null
+  status: newest
+  summary: A personal key-value store
+  maintainers:
+    - termux@github
 - repo: void_x86_64
   subrepo: x86_64
   srcname: skate
