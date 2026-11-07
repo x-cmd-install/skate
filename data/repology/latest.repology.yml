@@ -1,3 +1,340 @@
+- repo: alpine_3_21
+  subrepo: community
+  srcname: skate
+  binname: skate
+  visiblename: skate
+  version: 1.0.0
+  origversion: 1.0.0-r5
+  status: outdated
+  summary: A personal key value store
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: skate
+  binname: skate-bash-completion
+  visiblename: skate-bash-completion
+  version: 1.0.0
+  origversion: 1.0.0-r5
+  status: outdated
+  summary: Bash completions for skate
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: skate
+  binname: skate-doc
+  visiblename: skate-doc
+  version: 1.0.0
+  origversion: 1.0.0-r5
+  status: outdated
+  summary: A personal key value store (documentation)
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: skate
+  binname: skate-fish-completion
+  visiblename: skate-fish-completion
+  version: 1.0.0
+  origversion: 1.0.0-r5
+  status: outdated
+  summary: Fish completions for skate
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: skate
+  binname: skate-zsh-completion
+  visiblename: skate-zsh-completion
+  version: 1.0.0
+  origversion: 1.0.0-r5
+  status: outdated
+  summary: Zsh completions for skate
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: skate
+  binname: skate
+  visiblename: skate
+  version: 1.0.1
+  origversion: 1.0.1-r7
+  status: outdated
+  summary: A personal key value store
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: skate
+  binname: skate-bash-completion
+  visiblename: skate-bash-completion
+  version: 1.0.1
+  origversion: 1.0.1-r7
+  status: outdated
+  summary: Bash completions for skate
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: skate
+  binname: skate-doc
+  visiblename: skate-doc
+  version: 1.0.1
+  origversion: 1.0.1-r7
+  status: outdated
+  summary: A personal key value store (documentation)
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: skate
+  binname: skate-fish-completion
+  visiblename: skate-fish-completion
+  version: 1.0.1
+  origversion: 1.0.1-r7
+  status: outdated
+  summary: Fish completions for skate
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: skate
+  binname: skate-zsh-completion
+  visiblename: skate-zsh-completion
+  version: 1.0.1
+  origversion: 1.0.1-r7
+  status: outdated
+  summary: Zsh completions for skate
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: skate
+  binname: skate
+  visiblename: skate
+  version: 1.0.1
+  origversion: 1.0.1-r12
+  status: outdated
+  summary: A personal key value store
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: skate
+  binname: skate-bash-completion
+  visiblename: skate-bash-completion
+  version: 1.0.1
+  origversion: 1.0.1-r12
+  status: outdated
+  summary: Bash completions for skate
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: skate
+  binname: skate-doc
+  visiblename: skate-doc
+  version: 1.0.1
+  origversion: 1.0.1-r12
+  status: outdated
+  summary: A personal key value store (documentation)
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: skate
+  binname: skate-fish-completion
+  visiblename: skate-fish-completion
+  version: 1.0.1
+  origversion: 1.0.1-r12
+  status: outdated
+  summary: Fish completions for skate
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: skate
+  binname: skate-zsh-completion
+  visiblename: skate-zsh-completion
+  version: 1.0.1
+  origversion: 1.0.1-r12
+  status: outdated
+  summary: Zsh completions for skate
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: skate
+  binname: skate
+  visiblename: skate
+  version: 1.0.1
+  origversion: 1.0.1-r14
+  status: outdated
+  summary: A personal key value store
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: skate
+  binname: skate-bash-completion
+  visiblename: skate-bash-completion
+  version: 1.0.1
+  origversion: 1.0.1-r14
+  status: outdated
+  summary: Bash completions for skate
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: skate
+  binname: skate-doc
+  visiblename: skate-doc
+  version: 1.0.1
+  origversion: 1.0.1-r14
+  status: outdated
+  summary: A personal key value store (documentation)
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: skate
+  binname: skate-fish-completion
+  visiblename: skate-fish-completion
+  version: 1.0.1
+  origversion: 1.0.1-r14
+  status: outdated
+  summary: Fish completions for skate
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: skate
+  visiblename: skate
+  version: 1.0.0
+  origversion: null
+  status: outdated
+  summary: Personal multi-machine syncable key value store
+  maintainers:
+    - figsoda@pm.me
+    - penguwin@penguwin.eu
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: skate
+  binname: skate-zsh-completion
+  visiblename: skate-zsh-completion
+  version: 1.0.1
+  origversion: 1.0.1-r14
+  status: outdated
+  summary: Zsh completions for skate
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: skate
+  binname: skate
+  visiblename: skate
+  version: 1.0.1
+  origversion: 1.0.1-r14
+  status: outdated
+  summary: A personal key value store
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: skate
+  binname: skate-bash-completion
+  visiblename: skate-bash-completion
+  version: 1.0.1
+  origversion: 1.0.1-r14
+  status: outdated
+  summary: Bash completions for skate
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: skate
+  binname: skate-doc
+  visiblename: skate-doc
+  version: 1.0.1
+  origversion: 1.0.1-r14
+  status: outdated
+  summary: A personal key value store (documentation)
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: skate
+  binname: skate-fish-completion
+  visiblename: skate-fish-completion
+  version: 1.0.1
+  origversion: 1.0.1-r14
+  status: outdated
+  summary: Fish completions for skate
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: skate
+  binname: skate-zsh-completion
+  visiblename: skate-zsh-completion
+  version: 1.0.1
+  origversion: 1.0.1-r14
+  status: outdated
+  summary: Zsh completions for skate
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
 - repo: aosc
   srcname: app-utils/skate
   binname: skate
@@ -10,188 +347,6 @@
     - fallback-mnt-aosc@repology
   categories:
     - utils
-- repo: alpine_3_21
-  subrepo: community
-  srcname: skate
-  binname: skate
-  visiblename: skate
-  version: 1.0.0
-  origversion: 1.0.0-r5
-  status: outdated
-  summary: A personal key value store
-  maintainers:
-    - omni+alpine@hack.org
-  licenses:
-    - MIT
-- repo: alpine_3_21
-  subrepo: community
-  srcname: skate
-  binname: skate-bash-completion
-  visiblename: skate-bash-completion
-  version: 1.0.0
-  origversion: 1.0.0-r5
-  status: outdated
-  summary: Bash completions for skate
-  maintainers:
-    - omni+alpine@hack.org
-  licenses:
-    - MIT
-- repo: alpine_3_21
-  subrepo: community
-  srcname: skate
-  binname: skate-doc
-  visiblename: skate-doc
-  version: 1.0.0
-  origversion: 1.0.0-r5
-  status: outdated
-  summary: A personal key value store (documentation)
-  maintainers:
-    - omni+alpine@hack.org
-  licenses:
-    - MIT
-- repo: alpine_3_21
-  subrepo: community
-  srcname: skate
-  binname: skate-fish-completion
-  visiblename: skate-fish-completion
-  version: 1.0.0
-  origversion: 1.0.0-r5
-  status: outdated
-  summary: Fish completions for skate
-  maintainers:
-    - omni+alpine@hack.org
-  licenses:
-    - MIT
-- repo: alpine_3_21
-  subrepo: community
-  srcname: skate
-  binname: skate-zsh-completion
-  visiblename: skate-zsh-completion
-  version: 1.0.0
-  origversion: 1.0.0-r5
-  status: outdated
-  summary: Zsh completions for skate
-  maintainers:
-    - omni+alpine@hack.org
-  licenses:
-    - MIT
-- repo: alpine_3_22
-  subrepo: community
-  srcname: skate
-  binname: skate
-  visiblename: skate
-  version: 1.0.1
-  origversion: 1.0.1-r7
-  status: outdated
-  summary: A personal key value store
-  maintainers:
-    - omni+alpine@hack.org
-  licenses:
-    - MIT
-- repo: alpine_3_22
-  subrepo: community
-  srcname: skate
-  binname: skate-bash-completion
-  visiblename: skate-bash-completion
-  version: 1.0.1
-  origversion: 1.0.1-r7
-  status: outdated
-  summary: Bash completions for skate
-  maintainers:
-    - omni+alpine@hack.org
-  licenses:
-    - MIT
-- repo: alpine_3_22
-  subrepo: community
-  srcname: skate
-  binname: skate-doc
-  visiblename: skate-doc
-  version: 1.0.1
-  origversion: 1.0.1-r7
-  status: outdated
-  summary: A personal key value store (documentation)
-  maintainers:
-    - omni+alpine@hack.org
-  licenses:
-    - MIT
-- repo: alpine_3_22
-  subrepo: community
-  srcname: skate
-  binname: skate-fish-completion
-  visiblename: skate-fish-completion
-  version: 1.0.1
-  origversion: 1.0.1-r7
-  status: outdated
-  summary: Fish completions for skate
-  maintainers:
-    - omni+alpine@hack.org
-  licenses:
-    - MIT
-- repo: alpine_3_22
-  subrepo: community
-  srcname: skate
-  binname: skate-zsh-completion
-  visiblename: skate-zsh-completion
-  version: 1.0.1
-  origversion: 1.0.1-r7
-  status: outdated
-  summary: Zsh completions for skate
-  maintainers:
-    - omni+alpine@hack.org
-  licenses:
-    - MIT
-- repo: alpine_3_23
-  subrepo: community
-  srcname: skate
-  binname: skate
-  visiblename: skate
-  version: 1.0.1
-  origversion: 1.0.1-r12
-  status: outdated
-  summary: A personal key value store
-  maintainers:
-    - omni+alpine@hack.org
-  licenses:
-    - MIT
-- repo: alpine_3_23
-  subrepo: community
-  srcname: skate
-  binname: skate-bash-completion
-  visiblename: skate-bash-completion
-  version: 1.0.1
-  origversion: 1.0.1-r12
-  status: outdated
-  summary: Bash completions for skate
-  maintainers:
-    - omni+alpine@hack.org
-  licenses:
-    - MIT
-- repo: alpine_3_23
-  subrepo: community
-  srcname: skate
-  binname: skate-doc
-  visiblename: skate-doc
-  version: 1.0.1
-  origversion: 1.0.1-r12
-  status: outdated
-  summary: A personal key value store (documentation)
-  maintainers:
-    - omni+alpine@hack.org
-  licenses:
-    - MIT
-- repo: alpine_3_23
-  subrepo: community
-  srcname: skate
-  binname: skate-fish-completion
-  visiblename: skate-fish-completion
-  version: 1.0.1
-  origversion: 1.0.1-r12
-  status: outdated
-  summary: Fish completions for skate
-  maintainers:
-    - omni+alpine@hack.org
-  licenses:
-    - MIT
 - repo: arch
   subrepo: extra
   srcname: skate
@@ -201,149 +356,6 @@
   origversion: 1.1.0-1
   status: newest
   summary: A personal key value store
-  licenses:
-    - MIT
-- repo: alpine_3_23
-  subrepo: community
-  srcname: skate
-  binname: skate-zsh-completion
-  visiblename: skate-zsh-completion
-  version: 1.0.1
-  origversion: 1.0.1-r12
-  status: outdated
-  summary: Zsh completions for skate
-  maintainers:
-    - omni+alpine@hack.org
-  licenses:
-    - MIT
-- repo: alpine_3_24
-  subrepo: community
-  srcname: skate
-  binname: skate
-  visiblename: skate
-  version: 1.0.1
-  origversion: 1.0.1-r14
-  status: outdated
-  summary: A personal key value store
-  maintainers:
-    - omni+alpine@hack.org
-  licenses:
-    - MIT
-- repo: alpine_3_24
-  subrepo: community
-  srcname: skate
-  binname: skate-bash-completion
-  visiblename: skate-bash-completion
-  version: 1.0.1
-  origversion: 1.0.1-r14
-  status: outdated
-  summary: Bash completions for skate
-  maintainers:
-    - omni+alpine@hack.org
-  licenses:
-    - MIT
-- repo: alpine_3_24
-  subrepo: community
-  srcname: skate
-  binname: skate-doc
-  visiblename: skate-doc
-  version: 1.0.1
-  origversion: 1.0.1-r14
-  status: outdated
-  summary: A personal key value store (documentation)
-  maintainers:
-    - omni+alpine@hack.org
-  licenses:
-    - MIT
-- repo: alpine_3_24
-  subrepo: community
-  srcname: skate
-  binname: skate-fish-completion
-  visiblename: skate-fish-completion
-  version: 1.0.1
-  origversion: 1.0.1-r14
-  status: outdated
-  summary: Fish completions for skate
-  maintainers:
-    - omni+alpine@hack.org
-  licenses:
-    - MIT
-- repo: alpine_3_24
-  subrepo: community
-  srcname: skate
-  binname: skate-zsh-completion
-  visiblename: skate-zsh-completion
-  version: 1.0.1
-  origversion: 1.0.1-r14
-  status: outdated
-  summary: Zsh completions for skate
-  maintainers:
-    - omni+alpine@hack.org
-  licenses:
-    - MIT
-- repo: alpine_edge
-  subrepo: community
-  srcname: skate
-  binname: skate
-  visiblename: skate
-  version: 1.0.1
-  origversion: 1.0.1-r14
-  status: outdated
-  summary: A personal key value store
-  maintainers:
-    - omni+alpine@hack.org
-  licenses:
-    - MIT
-- repo: alpine_edge
-  subrepo: community
-  srcname: skate
-  binname: skate-bash-completion
-  visiblename: skate-bash-completion
-  version: 1.0.1
-  origversion: 1.0.1-r14
-  status: outdated
-  summary: Bash completions for skate
-  maintainers:
-    - omni+alpine@hack.org
-  licenses:
-    - MIT
-- repo: alpine_edge
-  subrepo: community
-  srcname: skate
-  binname: skate-doc
-  visiblename: skate-doc
-  version: 1.0.1
-  origversion: 1.0.1-r14
-  status: outdated
-  summary: A personal key value store (documentation)
-  maintainers:
-    - omni+alpine@hack.org
-  licenses:
-    - MIT
-- repo: alpine_edge
-  subrepo: community
-  srcname: skate
-  binname: skate-fish-completion
-  visiblename: skate-fish-completion
-  version: 1.0.1
-  origversion: 1.0.1-r14
-  status: outdated
-  summary: Fish completions for skate
-  maintainers:
-    - omni+alpine@hack.org
-  licenses:
-    - MIT
-- repo: alpine_edge
-  subrepo: community
-  srcname: skate
-  binname: skate-zsh-completion
-  visiblename: skate-zsh-completion
-  version: 1.0.1
-  origversion: 1.0.1-r14
-  status: outdated
-  summary: Zsh completions for skate
-  maintainers:
-    - omni+alpine@hack.org
   licenses:
     - MIT
 - repo: aur
@@ -377,9 +389,9 @@
   srcname: skate
   binname: skate
   visiblename: skate
-  version: 0.2.2
-  origversion: 0.2.2-1
-  status: outdated
+  version: 1.1.0
+  origversion: 1.1.0-1
+  status: newest
   summary: A personal key value store
   licenses:
     - MIT
@@ -388,9 +400,9 @@
   srcname: skate
   binname: skate
   visiblename: skate
-  version: 0.2.2
-  origversion: 0.2.2-1
-  status: outdated
+  version: 1.1.0
+  origversion: 1.1.0-1
+  status: newest
   summary: A personal key value store
   licenses:
     - MIT
@@ -412,18 +424,6 @@
   origversion: null
   status: outdated
   summary: A personal multi-machine syncable key value store
-  maintainers:
-    - figsoda@pm.me
-    - penguwin@penguwin.eu
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: skate
-  visiblename: skate
-  version: 1.0.0
-  origversion: null
-  status: outdated
-  summary: Personal multi-machine syncable key value store
   maintainers:
     - figsoda@pm.me
     - penguwin@penguwin.eu
