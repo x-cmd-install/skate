@@ -50,6 +50,18 @@
     - omni+alpine@hack.org
   licenses:
     - MIT
+- repo: aosc
+  srcname: app-utils/skate
+  binname: skate
+  visiblename: skate
+  version: 1.0.1
+  origversion: 1.0.1-8
+  status: outdated
+  summary: Personal key-value storage
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - utils
 - repo: alpine_3_21
   subrepo: community
   srcname: skate
@@ -180,6 +192,17 @@
     - omni+alpine@hack.org
   licenses:
     - MIT
+- repo: arch
+  subrepo: extra
+  srcname: skate
+  binname: skate
+  visiblename: skate
+  version: 1.1.0
+  origversion: 1.1.0-1
+  status: newest
+  summary: A personal key value store
+  licenses:
+    - MIT
 - repo: alpine_3_23
   subrepo: community
   srcname: skate
@@ -245,18 +268,6 @@
     - omni+alpine@hack.org
   licenses:
     - MIT
-- repo: nix_stable_24_11
-  srcname: skate
-  visiblename: skate
-  version: 1.0.0
-  origversion: null
-  status: outdated
-  summary: Personal multi-machine syncable key value store
-  maintainers:
-    - figsoda@pm.me
-    - penguwin@penguwin.eu
-  licenses:
-    - MIT
 - repo: alpine_3_24
   subrepo: community
   srcname: skate
@@ -333,29 +344,6 @@
   summary: Zsh completions for skate
   maintainers:
     - omni+alpine@hack.org
-  licenses:
-    - MIT
-- repo: aosc
-  srcname: app-utils/skate
-  binname: skate
-  visiblename: skate
-  version: 1.0.1
-  origversion: 1.0.1-7
-  status: outdated
-  summary: Personal key-value storage
-  maintainers:
-    - fallback-mnt-aosc@repology
-  categories:
-    - utils
-- repo: arch
-  subrepo: extra
-  srcname: skate
-  binname: skate
-  visiblename: skate
-  version: 1.1.0
-  origversion: 1.1.0-1
-  status: newest
-  summary: A personal key value store
   licenses:
     - MIT
 - repo: aur
@@ -424,6 +412,18 @@
   origversion: null
   status: outdated
   summary: A personal multi-machine syncable key value store
+  maintainers:
+    - figsoda@pm.me
+    - penguwin@penguwin.eu
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: skate
+  visiblename: skate
+  version: 1.0.0
+  origversion: null
+  status: outdated
+  summary: Personal multi-machine syncable key value store
   maintainers:
     - figsoda@pm.me
     - penguwin@penguwin.eu
