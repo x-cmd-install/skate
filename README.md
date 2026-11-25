@@ -44,12 +44,12 @@ Total: **407** lines of code across **2** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 1 | 1 | 2 | 0 | 0 | 0 |
-| 90d | 2026-08-26 | 1 | 2 | 3 | 0 | 1 | 3 |
-| last180d | 2026-05-28 | 1 | 4 | 4 | 0 | 1 | 4 |
-| 360d | 2025-11-29 | 1 | 5 | 6 | 0 | 2 | 6 |
-| last720d | 2024-12-04 | 2 | 43 | 6 | 4 | 6 | 52 |
+| 30d | 2026-10-26 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 1 | 1 | 2 | 0 | 0 | 0 |
+| 90d | 2026-08-27 | 1 | 2 | 3 | 0 | 1 | 3 |
+| last180d | 2026-05-29 | 1 | 4 | 4 | 0 | 1 | 4 |
+| 360d | 2025-11-30 | 1 | 5 | 6 | 0 | 2 | 6 |
+| last720d | 2024-12-05 | 2 | 42 | 6 | 4 | 6 | 52 |
 
 ## Release assets
 
@@ -112,18 +112,6 @@ Total: **407** lines of code across **2** files in the top 5 languages.
 | [skate_1.1.0_x86.apk](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_x86.apk) | 5.2 MiB | `other` |
 | [skate_1.1.0_x86_64.apk](https://github.com/charmbracelet/skate/releases/download/v1.1.0/skate_1.1.0_x86_64.apk) | 5.4 MiB | `other` |
 
-## Distribution status
-
-Reported by **42** distros on [repology.org](https://repology.org/project/skate). **9** are ✅ on the latest upstream release, **31** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `1.1.0` | ✅ latest |
-| Homebrew | `1.1.0` | ✅ latest |
-| Nix unstable | `1.1.0` | ✅ latest |
-| Void | `1.1.0` | ✅ latest |
-| Alpine edge | `1.0.1` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for skate lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `skate` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -133,4 +121,4 @@ Install metadata for skate lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:46:20Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:20:16Z._
